@@ -98,10 +98,6 @@ service cloud.firestore {
 
 ---
 
-## 👨‍💻 Author
-**Ekta Singh** & **Antigravity AI**
-
----
 **GitHub Repository**: [https://github.com/Ektasingh987/taskmanager12.git](https://github.com/Ektasingh987/taskmanager12.git)
 
 ---
